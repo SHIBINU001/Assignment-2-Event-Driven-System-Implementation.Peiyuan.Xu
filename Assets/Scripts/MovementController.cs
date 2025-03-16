@@ -22,6 +22,7 @@ public class MovementController : MonoBehaviour
     public Transform wallCheckPoint;
     public bool speedBoostActive;
     public CoinManager cm;
+    
 
 
     Vector2 relativeTransform;
@@ -114,5 +115,7 @@ public class MovementController : MonoBehaviour
             Destroy(other.gameObject);
             cm.coinCount++;
         }
+
+     
     }
 }
