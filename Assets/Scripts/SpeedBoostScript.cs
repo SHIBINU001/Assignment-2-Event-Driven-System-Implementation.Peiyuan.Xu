@@ -1,6 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;    // Peiyuan.Xu 000928128 Mohawk College Game Design 10009 Assignment 1
+using UnityEngine;    // Peiyuan.Xu 000928128 Mohawk College Game Design 
 
 public class SpeedBoostScript : MonoBehaviour
 {

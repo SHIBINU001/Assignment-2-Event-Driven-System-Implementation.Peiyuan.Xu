@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.InputSystem;    // Peiyuan.Xu 000928128 Mohawk Game Design 10009 Assignment 1
+using UnityEngine.InputSystem;    // Peiyuan.Xu 000928128 Mohawk Game Design 
 
 public class MovementController : MonoBehaviour
 {

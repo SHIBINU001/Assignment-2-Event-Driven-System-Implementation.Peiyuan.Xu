@@ -1,4 +1,4 @@
-using UnityEngine; // Peiyuan.Xu 000928128 Mohawk College Game Design 10009 Assignment 1
+using UnityEngine; // Peiyuan.Xu 000928128 Mohawk College Game Design
 using UnityEngine.SceneManagement;
 public class SceneController : MonoBehaviour
 {
